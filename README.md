@@ -23,7 +23,7 @@ Follow these steps to get the project running locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/pynaman/Fashion-Blog-Landing-Page.git
+   https://github.com/Naman-Tulsyan/Fashion-Blog-Landing-Page.git
 
 2. **Navigate into the project directory**:
 
